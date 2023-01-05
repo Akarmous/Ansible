@@ -1,0 +1,364 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Dernier motif de recherche  :
+~Msle0~/\<ansible\>
+
+# Historique ligne de commande (chronologie décroissante) :
+:x
+|2,0,1672829143,,"x"
+:x!
+|2,0,1672829139,,"x!"
+:!wq
+|2,0,1672829133,,"!wq"
+:wq!
+|2,0,1672829094,,"wq!"
+:wq! 
+|2,0,1672737436,,"wq! "
+:wq
+|2,0,1672737429,,"wq"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? \<ansible\>
+|2,1,1672737448,,"\\<ansible\\>"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"1	LINE	0
+	
+|3,0,1,1,1,0,1672658705,""
+""-	CHAR	0
+	f
+|3,1,36,0,1,0,1672737477,"f"
+
+# Marques dans le fichier :
+'0  45  0  /etc/ansible/hosts
+|4,48,45,0,1672843236,"/etc/ansible/hosts"
+'1  4  40  /etc/ansible/playbook.yml
+|4,49,4,40,1672838078,"/etc/ansible/playbook.yml"
+'2  6  19  ~/ansible-practice/inventory/playbook.yml
+|4,50,6,19,1672827606,"~/ansible-practice/inventory/playbook.yml"
+'3  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,51,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+'4  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,52,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+'5  12  0  /etc/ansible/ansible.cfg
+|4,53,12,0,1672759949,"/etc/ansible/ansible.cfg"
+'6  1  0  /etc/ansible/ansible.cfg
+|4,54,1,0,1672737492,"/etc/ansible/ansible.cfg"
+'7  1  0  ~/etc/ansible/hosts.yml
+|4,55,1,0,1672670554,"~/etc/ansible/hosts.yml"
+'8  45  0  /etc/ansible/hosts
+|4,56,45,0,1672669999,"/etc/ansible/hosts"
+'9  3  0  /etc/ansible/hosts
+|4,57,3,0,1672666721,"/etc/ansible/hosts"
+
+# Liste de sauts (le plus récent en premier) :
+-'  45  0  /etc/ansible/hosts
+|4,39,45,0,1672843236,"/etc/ansible/hosts"
+-'  4  40  /etc/ansible/playbook.yml
+|4,39,4,40,1672838078,"/etc/ansible/playbook.yml"
+-'  4  40  /etc/ansible/playbook.yml
+|4,39,4,40,1672838078,"/etc/ansible/playbook.yml"
+-'  1  0  /etc/ansible/playbook.yml
+|4,39,1,0,1672829017,"/etc/ansible/playbook.yml"
+-'  1  0  /etc/ansible/playbook.yml
+|4,39,1,0,1672829017,"/etc/ansible/playbook.yml"
+-'  6  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,6,19,1672827606,"~/ansible-practice/inventory/playbook.yml"
+-'  6  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,6,19,1672827606,"~/ansible-practice/inventory/playbook.yml"
+-'  6  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,6,19,1672827606,"~/ansible-practice/inventory/playbook.yml"
+-'  6  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,6,19,1672827606,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827598,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827598,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827598,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827598,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+-'  2  19  ~/ansible-practice/inventory/playbook.yml
+|4,39,2,19,1672827581,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  1  0  ~/ansible-practice/inventory/playbook.yml
+|4,39,1,0,1672827565,"~/ansible-practice/inventory/playbook.yml"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  12  0  /etc/ansible/ansible.cfg
+|4,39,12,0,1672759949,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737492,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  4  0  /etc/ansible/ansible.cfg
+|4,39,4,0,1672737448,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1672737379,"/etc/ansible/ansible.cfg"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+-'  1  0  ~/etc/ansible/hosts.yml
+|4,39,1,0,1672670554,"~/etc/ansible/hosts.yml"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /etc/ansible/hosts
+	*	1672838827	0
+	"	45	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> /etc/ansible/playbook.yml
+	*	1672829144	0
+	"	4	40
+	^	4	41
+	.	4	40
+	+	5	0
+	+	4	128
+	+	4	87
+	+	4	40
+
+> ~/ansible-practice/inventory/playbook.yml
+	*	1672827605	0
+	"	6	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> /etc/ansible/ansible.cfg
+	*	1672759949	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	3	73
+	+	4	0
+	+	12	0
+
+> ~/etc/ansible/hosts.yml
+	*	1672670553	0
+	"	1	0
+
+> ~/Bureau/test/ansible/inventory.yaml
+	*	1672658909	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	1	8
+	+	1	258
+	+	1	274
+	+	1	369
+	+	1	140
+	+	1	100
+	+	1	60
+	+	1	16
+	+	2	8
+
+> ~/Bureau/test/ansible/inventory/host.yml
+	*	1672657281	0
+	"	6	0
+	^	6	0
+	.	5	0
+	+	5	0
+
+> ~/Bureau/test/ansible/host.yml
+	*	1672657265	0
+	"	1	0
+
+> ~/Bureau/test/playbook.yaml
+	*	1672656513	0
+	"	7	21
+	^	7	22
+	.	7	21
+	+	2	0
+	+	1	1
+	+	2	7
+	+	3	0
+	+	6	25
+	+	8	22
+	+	2	0
+	+	1	1
+	+	3	22
+	+	7	21
+
+> ~/Bureau/test/inventory.yml
+	*	1672656376	0
+	"	11	0
+	^	11	0
+	.	11	0
+	+	10	20
+	+	11	0
+
+> ~/etc/ansible/hosts
+	*	1672655744	0
+	"	1	0
